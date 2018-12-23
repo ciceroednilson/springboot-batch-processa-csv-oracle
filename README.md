@@ -8,7 +8,7 @@
 
 ### Diretório sql.
 
-Esse diretório contem os scripts de criação dos objetos do banco de dados.
+Esse diretório contem o script de criação dos objetos do banco de dados.
 
 ### Diretório fontes.
 
